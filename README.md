@@ -3,7 +3,8 @@
 I am a PhD student at The University of Texas at Austin.
 
 ## Research Interests
-- Subsurface Modeling
+- Chemical EOR
+- Pore Scale Multiphase Flow 
 - Machine Learning
 - High Performance Computing
 - Geothermal Energy
